@@ -1,4 +1,4 @@
-This little code counts in binary and display the current number, and uses this binary count to solve the Hanoi towers in the most efficient ways.
+This little code counts in binary, displays the current number, and uses this binary count to solve the Hanoi towers in the most efficient way.
 
 
 Author: Clement Amphoux
